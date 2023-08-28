@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: William Scott Gromme
+  name: W. Scott Gromme
   email: wills1377@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -79,8 +79,8 @@ theme_mode: # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar:
+# the avatar on sidebar, support local or CORS resources "https://chirpy-img.netlify.app/commons/avatar.jpg" 
+avatar: assets/img/favicons/mstile-150x150.png    
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -117,6 +117,16 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
+
+# ------------ Added after enable jekyll-compose ------------
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      author:
+      categories:
+      tags:
+      render_with_liquid:
 
 # ------------ The following options are not recommended to be modified ------------------
 
