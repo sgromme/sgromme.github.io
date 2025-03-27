@@ -33,6 +33,7 @@ Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
 Here  are the files you will want to add or modify(M is modified and U is new file)
 
 ### All pages to modify
+
 ![Desktop View](assets/img/posts/Pasted-image-20250326170004.png){: width="972" height="589" }
 _The files to be modified or added_
 
