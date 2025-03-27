@@ -36,27 +36,31 @@ Here  are the files you will want to add or modify(M is modified and U is new fi
 
 
 What to modify in _config.yml and _tabs/about.md_ files 
-
+```
 ├── _config.yml
 ├── _tabs
 │   ├── about.md
+```
 
+### Page to modify
 
+![Desktop View](assets/img/posts/Pasted-image-20250327084506.png){: width="972" height="589" }
+_The _config.yml file edits in green_
 
-![[Pasted image 20250327084506.png]]
+### Page to modify
 
-![[Pasted image 20250327084629.png]]
-
+![Desktop View](assets/img/posts/Pasted-image-20250327084629.png){: width="972" height="589" }
+_The _tabs/about.md file edits in green_
 
 Run the tree command to get a overview of the 
 
 
 vscode ➜ /workspaces/sgromme.github.io (main) $ tree
-.
+
 ```
 ├── assets
 │   └── lib
-├── _config.yml
+├──_config.yml
 ├── _data
 │   ├── contact.yml
 │   └── share.yml
