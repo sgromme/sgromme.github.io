@@ -15,7 +15,7 @@ This is a brief introduction to setting up a Github page.  Trying to get the set
 
 
 Prerequisites:
-Note: This is for Windows , WSL and Docker only.
+Note: This is for Windows , WSL and Docker only. (As a alternative you can you Github code spaces)
 Git account. 
 WSL-2
 Docker Desktop. 
@@ -25,14 +25,16 @@ Check Docker run in your Ubuntu install  "docker run hello-world"
 
 Steps follow on wiki:
 Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
+
 [Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
 
 
 Here  are the files you will want to add or modify(M is modified and U is new file)
 
-
-![[Pasted image 20250326170004.png]]
+### All pages to modify
+![Desktop View](assets/img/posts/Pasted-image-20250326170004.png){: width="972" height="589" }
+_The files to be modified or added_
 
 
 What to modify in _config.yml and _tabs/about.md_ files 
