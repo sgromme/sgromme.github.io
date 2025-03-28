@@ -1,6 +1,6 @@
 ---
 title: My First Post
-author: W. Scott Gromme
+author: scott_gromme
 date: 2023-08-28 14:10:00 +0800
 categories: [Blogging]
 tags: [writing, supply planning]
