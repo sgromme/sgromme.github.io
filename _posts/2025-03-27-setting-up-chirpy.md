@@ -1,6 +1,6 @@
 ---
 title: Setting Up Chirpy
-author: W. Scott Gromme
+author: scott_gromme
 date: 2025-03-27 09:10:00 +0800
 categories: [Blogging, Chirpy]
 tags: [writing, Jekyll, Chirpy]
