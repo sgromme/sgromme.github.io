@@ -63,6 +63,7 @@ Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
 │   └── 2025-03-27-setting-up-chirpy.md
 
 ```
+_The _drafts directory and example posts is optional_
 
 ### Page to modify
 
