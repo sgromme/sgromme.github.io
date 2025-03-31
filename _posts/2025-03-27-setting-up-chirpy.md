@@ -35,34 +35,7 @@ Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
 
 
 ### Directory tree structure of pages added and modified.
-```
-├── _data
-│   ├── authors.yml
-├── _config.yml
-├── _tabs
-│   ├── about.md
-├── _drafts
-│   ├── 2019-08-08-text-and-typography.md
-│   ├── 2019-08-08-write-a-new-post.md
-│   ├── 2019-08-09-getting-started.md
-│   └── 2019-08-11-customize-the-favicon.md
-├── _site
-│   ├── assets
-│   │   ├── img
-│   │   │   ├── favicons
-│   │   │   │   ├── android-chrome-192x192.png
-│   │   │   │   ├── android-chrome-512x512.png
-│   │   │   │   ├── apple-touch-icon.png
-│   │   │   │   ├── browserconfig.xml
-│   │   │   │   ├── favicon-16x16.png
-│   │   │   │   ├── favicon-32x32.png
-│   │   │   │   ├── favicon.ico
-│   │   │   │   ├── mstile-150x150.png
-├── _posts
-│   ├── 2023-08-28-my-first-post.md
-│   └── 2025-03-27-setting-up-chirpy.md
-
-```
+![Desktop View](assets/img/posts/Screenshot-2025-03-31-082148.png){: width="972" height="589" }
 _The _drafts directory and example posts is optional_
 
 ### Page to modify
