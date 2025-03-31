@@ -14,10 +14,10 @@ This is a brief introduction to setting up a Github page.  Trying to get the set
 
 
 
-Prerequisites:
+## Prerequisites
 Note: This is for Windows , WSL and Docker only. (As a alternative you can you Github code spaces see this link)
 
-[sgromme/github . GitHub ](https://sgromme.github.io/posts/setting-up-chirpy-codespaces/)
+[Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
 1. Git account. 
 2. WSL-2 
@@ -36,11 +36,11 @@ Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
 [Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
 
-### Directory tree structure of pages added and modified.
+## Directory tree structure of pages added and modified.
 ![Desktop View](assets/img/posts/Screenshot-2025-03-31-082148.png){: width="972" height="589" }
 _The _drafts directory and example posts is optional_
 
-### Page to modify
+## Pages to modify and Add
 
 ![Desktop View](assets/img/posts/Pasted-image-20250327084506.png){: width="972" height="589" }
 _The _config.yml file edits in green_
