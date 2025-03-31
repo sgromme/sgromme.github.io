@@ -15,7 +15,9 @@ This is a brief introduction to setting up a Github page.  Trying to get the set
 
 
 Prerequisites:
-Note: This is for Windows , WSL and Docker only. (As a alternative you can you Github code spaces)
+Note: This is for Windows , WSL and Docker only. (As a alternative you can you Github code spaces see this link)
+
+[sgromme/github . GitHub ](https://sgromme.github.io/posts/setting-up-chirpy-codespaces/)
 
 1. Git account. 
 2. WSL-2 
