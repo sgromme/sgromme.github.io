@@ -16,20 +16,25 @@ This is a brief introduction to setting up a Github page.  Trying to get the set
 
 Prerequisites:
 Note: This is for Windows , WSL and Docker only. (As a alternative you can you Github code spaces)
-Git account. 
-WSL-2
-Docker Desktop. 
-Install Ubuntu (use the latest version) in WSL. (with git configured see Appendix A)
-Check Docker run in your Ubuntu install  "docker run hello-world"
+
+1. Git account. 
+2. WSL-2 
+3. Docker Desktop. 
+4. .Install Ubuntu (use the latest version) in WSL. (with git configured see Appendix A)
+
+Check that Docker runs in your Ubuntu install.
+```
+docker run hello-world
+```
 
 
-Steps follow on wiki:
+Steps to follow on wiki:
 Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
 
 [Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
 
-What to modify/add 
+### Directory tree structure of pages added and modified.
 ```
 ├── _data
 │   ├── authors.yml
