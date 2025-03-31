@@ -29,20 +29,34 @@ Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
 [Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
 
-
-Here  are the files you will want to add or modify(M is modified and U is new file)
-
-### All pages to modify
-
-![Desktop View](assets/img/posts/Pasted-image-20250326170004.png){: width="972" height="589" }
-_The files to be modified or added_
-
-
-What to modify in _config.yml and _tabs/about.md_ files 
+What to modify/add 
 ```
+├── _data
+│   ├── authors.yml
 ├── _config.yml
 ├── _tabs
 │   ├── about.md
+├── _drafts
+│   ├── 2019-08-08-text-and-typography.md
+│   ├── 2019-08-08-write-a-new-post.md
+│   ├── 2019-08-09-getting-started.md
+│   └── 2019-08-11-customize-the-favicon.md
+├── _site
+│   ├── assets
+│   │   ├── img
+│   │   │   ├── favicons
+│   │   │   │   ├── android-chrome-192x192.png
+│   │   │   │   ├── android-chrome-512x512.png
+│   │   │   │   ├── apple-touch-icon.png
+│   │   │   │   ├── browserconfig.xml
+│   │   │   │   ├── favicon-16x16.png
+│   │   │   │   ├── favicon-32x32.png
+│   │   │   │   ├── favicon.ico
+│   │   │   │   ├── mstile-150x150.png
+├── _posts
+│   ├── 2023-08-28-my-first-post.md
+│   └── 2025-03-27-setting-up-chirpy.md
+
 ```
 
 ### Page to modify
@@ -55,94 +69,12 @@ _The _config.yml file edits in green_
 ![Desktop View](assets/img/posts/Pasted-image-20250327084629.png){: width="972" height="589" }
 _The _tabs/about.md file edits in green_
 
-Run the tree command to get a overview of the 
 
+### Pages to modify and add
 
-vscode ➜ /workspaces/sgromme.github.io (main) $ tree
+![Desktop View](assets/img/posts/Pasted-image-20250331073240.png){: width="972" height="589" }
+_The files to be modified or added_
 
-```
-├── assets
-│   └── lib
-├──_config.yml
-├── _data
-│   ├── contact.yml
-│   └── share.yml
-├── Gemfile
-├── Gemfile.lock
-├── index.html
-├── LICENSE
-├── _plugins
-│   └── posts-lastmod-hook.rb
-├── _posts
-│   └── 2023-08-28-my-first-post.md
-├── README.md
-├── _site
-│   ├── 404.html
-│   ├── about
-│   │   └── index.html
-│   ├── app.min.js
-│   ├── archives
-│   │   └── index.html
-│   ├── assets
-│   │   ├── css
-│   │   │   ├── jekyll-theme-chirpy.css
-│   │   │   └── jekyll-theme-chirpy.css.map
-│   │   ├── img
-│   │   │   └── favicons
-│   │   │       ├── android-chrome-192x192.png
-│   │   │       ├── android-chrome-512x512.png
-│   │   │       ├── apple-touch-icon.png
-│   │   │       ├── browserconfig.xml
-│   │   │       ├── favicon-16x16.png
-│   │   │       ├── favicon-32x32.png
-│   │   │       ├── favicon.ico
-│   │   │       ├── mstile-150x150.png
-│   │   │       └── site.webmanifest
-│   │   ├── index.html
-│   │   └── js
-│   │       ├── data
-│   │       │   ├── mathjax.js
-│   │       │   ├── search.json
-│   │       │   └── swconf.js
-│   │       └── dist
-│   │           ├── categories.min.js
-│   │           ├── commons.min.js
-│   │           ├── home.min.js
-│   │           ├── misc.min.js
-│   │           ├── page.min.js
-│   │           ├── post.min.js
-│   │           └── theme.min.js
-│   ├── categories
-│   │   ├── blogging
-│   │   │   └── index.html
-│   │   └── index.html
-│   ├── feed.xml
-│   ├── index.html
-│   ├── norobots
-│   │   └── index.html
-│   ├── posts
-│   │   ├── index.html
-│   │   └── my-first-post
-│   │       └── index.html
-│   ├── redirects.json
-│   ├── robots.txt
-│   ├── sitemap.xml
-│   ├── sw.min.js
-│   └── tags
-│       ├── index.html
-│       ├── supply-planning
-│       │   └── index.html
-│       └── writing
-│           └── index.html
-├── _tabs
-│   ├── about.md
-│   ├── archives.md
-│   ├── categories.md
-│   └── tags.md
-└── tools
-    ├── run.sh
-    └── test.sh
-```
 
 
 Appendix A:
@@ -152,4 +84,18 @@ Add git variables with the following commands.
 ```
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
+```
+
+Appendix C:
+Command to print the directory structure.
+```
+tree
+```
+
+
+Appendix B:
+Command to start the web server: 
+```
+bundle exec jekyll serve --livereload
+
 ```
