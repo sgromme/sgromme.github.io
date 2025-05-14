@@ -33,6 +33,7 @@ docker run hello-world
 
 Steps to follow on wiki:
 Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
+Note: Under the "Getting Started" link , do only "Option 1:". You will be using Dev Containers in Visual Studio Code, make sure to install the DevContainer Extension in Visual Studio Code.
 
 [Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
