@@ -15,7 +15,7 @@ This is a brief introduction to setting up a Github page.  Trying to get the set
 
 
 ## Prerequisites
-Note: This is for Windows , WSL and Docker only. (As a alternative you can you Github code spaces see this link)
+Note: This is for Windows , WSL and Docker but should work for any operating system. (As a alternative you can you Github code spaces see this link)
 
 [Github Codespaces](https://sgromme.github.io/posts/setting-up-chirpy-codespaces)
 
@@ -33,7 +33,7 @@ docker run hello-world
 
 Steps to follow on wiki:
 Do the "Getting Started", "Customize the Favicon" and "Writing a New Post".
-Note: Under the "Getting Started" link , do only "Option 1:". You will be using Dev Containers in Visual Studio Code, make sure to install the DevContainer Extension in Visual Studio Code.
+### Note: Under the "Getting Started" link , do only "Option 1:". You will be using Dev Containers in Visual Studio Code, make sure to install the DevContainer Extension in Visual Studio Code.
 
 [Home · cotes2020/jekyll-theme-chirpy Wiki · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
 
