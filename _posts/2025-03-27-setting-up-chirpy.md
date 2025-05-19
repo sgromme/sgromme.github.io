@@ -61,26 +61,33 @@ _The files to be modified or added_
 ## Lesson Learned while using jekyll-theme-chirpy
 1. Your Github page should alway be open and on the "Actions" tab to see if any errors have occurred. Just expand the error and see if you can troubleshoot it.
 2. Posts pages need to be exact, a extra space and the post\text might not display correctly.
+3. Use the _drafts directory to keep example posts and posts that are not complete.  You can then drop them in the _posts directory and test them on the local server before pushing then to Github.
+
+
 
 Appendix A:
-Add git variables with the following commands.
+Add git variables with the following commands (usually only on Wsl-2).  If you are unsure run these commands to see if they already exist.
 
-
+```console
+git -v
+git config --global user.name
+git config --global user.email
 ```
+
+```console
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
 Appendix B:
 Command to print the directory structure.
-```
+```console
 tree
 ```
 
-
 Appendix C:
 Command to start the web server: 
-```
+```console
 bundle exec jekyll serve --livereload
 
 ```
