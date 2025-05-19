@@ -58,7 +58,9 @@ _The _tabs/about.md file edits in green_
 ![Desktop View](assets/img/posts/Pasted-image-20250331073240.png){: width="972" height="589" }
 _The files to be modified or added_
 
-
+## Lesson Learned while using jekyll-theme-chirpy
+1. Your Github page should alway be open and on the "Actions" tab to see if any errors have occurred. Just expand the error and see if you can troubleshoot it.
+2. Posts pages need to be exact, a extra space and the post\text might not display correctly.
 
 Appendix A:
 Add git variables with the following commands.
@@ -69,14 +71,14 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-Appendix C:
+Appendix B:
 Command to print the directory structure.
 ```
 tree
 ```
 
 
-Appendix B:
+Appendix C:
 Command to start the web server: 
 ```
 bundle exec jekyll serve --livereload
