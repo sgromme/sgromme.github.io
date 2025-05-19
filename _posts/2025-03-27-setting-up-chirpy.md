@@ -59,11 +59,11 @@ _The _tabs/about.md file edits in green_
 ![Desktop View](assets/img/posts/Pasted-image-20250331073240.png){: width="972" height="589" }
 _The files to be modified or added_
 
-## Lesson Learned while using jekyll-theme-chirpy
+## Lessons Learned while using jekyll-theme-chirpy
 
-1. Test all pages (especially _config.yml ) updates on your local web server before pushing to Github.
+1. Test all pages (especially _config.yml ) updates on your local web server before pushing to Github. Also make sure to test on Edge and Chrome.
 2. Your Github page should always be open and on the "Actions" tab on your remote repository to see if any errors have occurred after pushing changes to Github. You should also be on the Github web page to test updates and to verifiy everthing displays correctly. If a error occurs, just expand the error and see if you can troubleshoot it.
-3. Posts pages need to be exact (for exmaple only one empty line after a # header line), a extra space and the post\text might not display correctly (Chrome browser).
+3. Posts pages need to be exact (for example - only one empty line should be after a #(or multiple #) header line), if a  extra space is added and the post\text might not display correctly (occurs Chrome browser).
 4. Use the _drafts directory to keep example posts and posts that are not complete.  You can then drop them in the _posts directory and test them on the local server before pushing then to Github.
 5. Install and use Copilot to help with using chirpy.
 6. Store your images under ./assets/img/posts.
