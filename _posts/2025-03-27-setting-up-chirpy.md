@@ -61,7 +61,6 @@ _The files to be modified or added_
 
 ## Lesson Learned while using jekyll-theme-chirpy
 
-
 1. Test all pages (especially _config.yml ) updates on your local web server before pushing to Github.
 2. Your Github page should always be open and on the "Actions" tab on your remote repository to see if any errors have occurred after pushing changes to Github. You should also be on the Github web page to test updates. If a error occurs, just expand the error and see if you can troubleshoot it.
 3. Posts pages need to be exact, a extra space and the post\text might not display correctly.
