@@ -26,7 +26,8 @@ Note: This is for Windows , WSL and Docker but should work for any operating sys
 4. Install Ubuntu (use the latest version) in WSL. (with git configured see Appendix A)
 
 Check that Docker runs in your Ubuntu install.
-```
+
+```console
 docker run hello-world
 ```
 
@@ -59,11 +60,14 @@ _The _tabs/about.md file edits in green_
 _The files to be modified or added_
 
 ## Lesson Learned while using jekyll-theme-chirpy
-1. Your Github page should alway be open and on the "Actions" tab to see if any errors have occurred. Just expand the error and see if you can troubleshoot it.
-2. Posts pages need to be exact, a extra space and the post\text might not display correctly.
-3. Use the _drafts directory to keep example posts and posts that are not complete.  You can then drop them in the _posts directory and test them on the local server before pushing then to Github.
-4. Install and use Copilot to help with using chirpy.
-5. Store your images under ./assets/img/posts .
+
+
+1. Test all pages (especially _config.yml ) updates on your local web server before pushing to Github.
+2. Your Github page should always be open and on the "Actions" tab on your remote repository to see if any errors have occurred after pushing changes to Github. You should also be on the Github web page to test updates. If a error occurs, just expand the error and see if you can troubleshoot it.
+3. Posts pages need to be exact, a extra space and the post\text might not display correctly.
+4. Use the _drafts directory to keep example posts and posts that are not complete.  You can then drop them in the _posts directory and test them on the local server before pushing then to Github.
+5. Install and use Copilot to help with using chirpy.
+6. Store your images under ./assets/img/posts.
 
 
 ## Appendix
@@ -86,6 +90,7 @@ git config --global user.email "your.email@example.com"
 ### Appendix B: Directory Structure
 
 Command to print the directory structure.
+
 ```console
 tree
 ```
@@ -93,6 +98,7 @@ tree
 ### Appendix C: Starting the Jekyll Server in reload
 
 Command to start the web server: 
+
 ```console
 bundle exec jekyll serve --livereload
 
