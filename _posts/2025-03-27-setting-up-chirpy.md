@@ -23,7 +23,7 @@ Note: This is for Windows , WSL and Docker but should work for any operating sys
 1. Git account. 
 2. WSL-2 
 3. Docker Desktop. 
-4. .Install Ubuntu (use the latest version) in WSL. (with git configured see Appendix A)
+4. Install Ubuntu (use the latest version) in WSL. (with git configured see Appendix A)
 
 Check that Docker runs in your Ubuntu install.
 ```
