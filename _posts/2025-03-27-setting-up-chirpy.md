@@ -62,10 +62,14 @@ _The files to be modified or added_
 1. Your Github page should alway be open and on the "Actions" tab to see if any errors have occurred. Just expand the error and see if you can troubleshoot it.
 2. Posts pages need to be exact, a extra space and the post\text might not display correctly.
 3. Use the _drafts directory to keep example posts and posts that are not complete.  You can then drop them in the _posts directory and test them on the local server before pushing then to Github.
+4. Install and use Copilot to help with using chirpy.
+5. Store your images under ./assets/img/posts .
 
 
+## Appendix
 
-Appendix A:
+### Appendix A: Git Configuration
+
 Add git variables with the following commands (usually only on Wsl-2).  If you are unsure run these commands to see if they already exist.
 
 ```console
@@ -79,13 +83,15 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-Appendix B:
+### Appendix B: Directory Structure
+
 Command to print the directory structure.
 ```console
 tree
 ```
 
-Appendix C:
+### Appendix C: Starting the Jekyll Server in reload
+
 Command to start the web server: 
 ```console
 bundle exec jekyll serve --livereload
