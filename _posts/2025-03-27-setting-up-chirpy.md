@@ -61,7 +61,7 @@ _The files to be modified or added_
 
 ## Lessons Learned while using jekyll-theme-chirpy
 
-1. Test all pages (especially _config.yml ) updates on your local web server before pushing to Github. Also make sure to test on Edge and Chrome.
+1. Test all page (especially _config.yml ) updates on your local web server before pushing to Github. Also make sure to test on Edge and Chrome.
 2. Your Github page should always be open and on the "Actions" tab on your remote repository to see if any errors have occurred after pushing changes to Github. You should also be on the Github web page to test updates and to verifiy everthing displays correctly. If a error occurs, just expand the error and see if you can troubleshoot it.
 3. Posts pages need to be exact - for example - only one empty line should be after a #(or multiple # header line), if a extra space is added and the post\text might not display correctly or at all (occurs in Chrome browser).
 4. Use the _drafts directory to keep example posts and posts that are not complete.  You can then drop them in the _posts directory and test them on the local server before pushing then to Github.
@@ -100,5 +100,4 @@ Command to start the web server:
 
 ```console
 bundle exec jekyll serve --livereload
-
 ```
