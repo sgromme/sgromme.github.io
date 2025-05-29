@@ -7,7 +7,7 @@ tags: [supply planning, Kubernetes]
 render_with_liquid: false
 mermaid: true
 ---
-## Kubernetess.
+## Kubernetess Framework.
 
 Kubernetes is the operating system for Open Supply Planning Framework.
 
