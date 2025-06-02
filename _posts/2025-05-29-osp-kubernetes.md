@@ -1,5 +1,5 @@
 ---
-title: Kubernetes is the Operating System
+title: Kubernetes
 author: scott_gromme
 date: 2025-05-29 09:10:00 +0000
 categories: [OSP]
