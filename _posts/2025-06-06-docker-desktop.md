@@ -73,7 +73,7 @@ desktop-control-plane   Ready      control-plane   48m   v1.31.1
 desktop-worker          NotReady   <none>          48m   v1.31.1
 desktop-worker2         NotReady   <none>          48m   v1.31.1
 ```
-To fix the issue set the environment in you WSL Linux install to this below (Windows path the Kind Kubernetes install)
+To fix the issue set the environment in you WSL Linux install to this below (Windows path to the Kubernetes config)
 ```console 
 export KUBECONFIG=/mnt/c/Users/<YourUserName>/.kube/config
 ```
