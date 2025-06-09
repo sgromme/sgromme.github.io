@@ -63,9 +63,24 @@ The connection to the server kubernetes.docker.internal:6443 was refused - did y
 
 3. This fix didn't work. More Info to come. 
 
+# Solution:
+
+Start a Powershell command line and run this command and it should work. The command works in Powershell but not the WSL Linux install
+```powershell
+kubectl get nodes
+NAME                    STATUS     ROLES           AGE   VERSION
+desktop-control-plane   Ready      control-plane   48m   v1.31.1
+desktop-worker          NotReady   <none>          48m   v1.31.1
+desktop-worker2         NotReady   <none>          48m   v1.31.1
+```
+To fix the issue set the environment in you WSL Linux install to this below (Windows path the Kind Kubernetes install)
+```console 
+export KUBECONFIG=/mnt/c/Users/<YourUserName>/.kube/config
+```
+
 # System:
 
-1. wsl2
+1. Wsl2
 2. Distro installed is Ubuntu24.04 LTS
 
 
