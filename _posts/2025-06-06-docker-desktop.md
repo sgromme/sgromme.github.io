@@ -84,7 +84,7 @@ export KUBECONFIG=/mnt/c/Users/<YourUserName>/.kube/config
 
 # System:
 
-1. Wsl2
+1. Wsl2 on Windows 11
 2. Distro installed is Ubuntu24.04 LTS
 
 
