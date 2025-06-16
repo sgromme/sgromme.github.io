@@ -3,7 +3,7 @@ title: Changing to Kind in Dockers Desktop
 author: scott_gromme
 date: 2025-06-06 10:10:00 +0800
 categories: [Kubernetes]
-tags: [docker desktop, kubernetes]
+tags: [docker desktop, Kubernetes]
 render_with_liquid: false
 ---
 
