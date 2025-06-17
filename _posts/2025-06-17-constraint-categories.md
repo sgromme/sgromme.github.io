@@ -5,7 +5,6 @@ date: 2025-06-17 09:10:00 +0000
 categories: [Constraint, Chirpy]
 tags: [ OSPF, ChatGPT]
 render_with_liquid: false
-mermaid: true
 ---
 
 
