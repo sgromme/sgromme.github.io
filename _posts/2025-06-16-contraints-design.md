@@ -12,4 +12,7 @@ render_with_liquid: false
 
 # Design
 
-
+1. Constraint Abstraction
+  1. Constrain class interface
+  2. Human readable Naming (including unique ID)
+  3. Attributes 
