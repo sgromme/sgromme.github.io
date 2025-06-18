@@ -1,5 +1,5 @@
 ---
-title: Designing the OSP contraints
+title: Designing the OSP constraints
 description: >-
   Geting started with constraints design.
   Observability, traceblity and understanding of contraints.
@@ -12,7 +12,11 @@ render_with_liquid: false
 
 # Design
 
-1. Constraint Abstraction
-  1. Constrain class interface
-  2. Human readable Naming (including unique ID)
-  3. Attributes 
+1. What is a constraint?  Anything that limits or restricts the Demand or Supply side.
+
+![alt text](../assets/img/posts/suppydemandconstraints.png)
+
+2. Constraint Abstraction
+  1. Constraint class interface
+  2. Human readable naming (including unique ID)
+  3. Attributes
