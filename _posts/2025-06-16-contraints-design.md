@@ -17,6 +17,6 @@ render_with_liquid: false
 ![alt text](../assets/img/posts/suppydemandconstraints.png)
 
 2. Constraint Abstraction
-  1. Constraint class interface
-  2. Human readable naming (including unique ID)
-  3. Attributes
+   1. Constraint class interface
+   2. Human readable naming (including unique ID)
+   3. Attributes

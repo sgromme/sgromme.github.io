@@ -22,43 +22,32 @@ Supply planning constraints are the real-world limitations and business rules th
 
 📦 Common Categories of Supply Planning Constraints:
 1. Capacity Constraints
-Production capacity: Max output per time period per resource.
-
-Storage capacity: Limits on inventory at warehouses or distribution centers.
-
-Transportation capacity: Limits on truck/container availability or shipping volume.
+    1. Production capacity: Max output per time period per resource.
+    2. Storage capacity: Limits on inventory at warehouses or distribution centers.
+    3. Transportation capacity: Limits on truck/container availability or shipping volume.
 
 2. Material Constraints
-Availability of components or raw materials.
-
-Lead times for procurement and delivery.
-
+    1. Availability of components or raw materials.
+    2. Lead times for procurement and delivery.
 3. Inventory Constraints
-Minimum/maximum inventory levels.
-
-Safety stock requirements.
-
-Shelf-life or expiry dates (for perishables).
-
+   1. Minimum/maximum inventory levels.
+   2.  Safety stock requirements.
+   3. Shelf-life or expiry dates (for perishables).
+   
 4. Demand Fulfillment Constraints
-Customer service levels (fill rate, OTIF).
-
-Order prioritization or allocation rules.
+   1. Customer service levels (fill rate, OTIF).
+   2. Order prioritization or allocation rules.
 
 5. Scheduling Constraints
-Setup/changeover times and costs.
-
-Shift patterns, working hours, or maintenance windows.
+   1. Setup/changeover times and costs.
+   2. Shift patterns, working hours, or maintenance windows.
 
 6. Financial Constraints
-Budget limits for production, procurement, or logistics.
-
-Cost minimization or profit maximization objectives.
+   1. Budget limits for production, procurement, or logistics.
+   2. Cost minimization or profit maximization objectives.
 
 7. Policy Constraints
-Make-to-order vs. make-to-stock policies.
-
-Fixed production lot sizes.
-
-Supplier contracts (e.g., MOQ, quotas).
+   1. Make-to-order vs. make-to-stock policies.
+   2. Fixed production lot sizes.
+   3. Supplier contracts (e.g., MOQ, quotas).
 '''
