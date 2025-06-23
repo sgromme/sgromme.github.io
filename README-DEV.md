@@ -1,6 +1,6 @@
 # Blogging in Chirpy
 
-The folder ".devcontainer" contains the devcontainer.json file which defines the container for Chirpy and should automatically start the container which can be seen in the shell below.
+The folder ".devcontainer" contains the devcontainer.json file which defines the container for Chirpy and should automatically start the container which can be seen in the shell below.  If the container doesn't start (usually wasn't started last time) select on the keyboard "ctrl shift p" and select on the pull down menu "Dev Container: reopen container"
 
 ![alt text](dev-container.png.png)
 
