@@ -12,6 +12,9 @@ render_with_liquid: false
 The lack of good restaurants in America.
 
 
+![Desktop View](assets/img/posts/restaurantdatapipeline.png){: width="972" height="589" }
+_Drawing created in Obsidian and Excalidraw_
+
 # ToDo:
 
 TBD
