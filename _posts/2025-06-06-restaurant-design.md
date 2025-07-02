@@ -15,6 +15,12 @@ The lack of good restaurants in America.
 ![Desktop View](assets/img/posts/restaurantdatapipeline.png){: width="972" height="589" }
 _Drawing created in Obsidian and Excalidraw_
 
+# Ideas:
+
+![Desktop View](assets/img/posts/commissary.excalidraw.png){: width="972" height="589" }
+_Drawing created in Obsidian and Excalidraw_
+
+
 # ToDo:
 
 TBD
