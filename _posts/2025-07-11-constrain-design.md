@@ -24,11 +24,13 @@ Visibility into these constraints is critical for understanding and improving su
 
 * Improve collaboration between operations, procurement, and sales
 
-<h3 align="center">Supply Chain Flow</h3>
+
+###        Supply Chain Flow
 
 ```mermaid
 
 flowchart LR
+  
 
 A(Demand) <--Products/Materials--> B(Supply)
 
