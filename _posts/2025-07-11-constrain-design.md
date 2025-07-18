@@ -9,7 +9,7 @@ mermaid: true
 ---
 # Introduction
 
-Constraints in Supply Planning are the business rules and limitiation that control how materials , resources, and production capacity can be used in a supply chain.
+Constraints in Supply Planning are the business rules and limitiations that control how materials , resources, and production capacity can be used in a supply chain.
 These constraints may include supplier lead times, production capacities, storage limits, transportation availability, order minimums, or contractual obligations. They ensure that supply plans are not only cost-effective but also feasible and aligned with real-world limitations.
 
 All constraints have a begin and end date, or a implied never expire date.
