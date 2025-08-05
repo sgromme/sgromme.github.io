@@ -9,5 +9,4 @@ mermaid: true
 ---
 # Introduction
 
-Use dynamic programming in a distributed Supply Planning problem to get a initial production schedule.
-
+Dynamic programming in a distributed Supply Planning system will be used to to solve the production and inventory schedule.   Dynamic programming will simplify a decision by breaking it down into a sequence of decision steps over time.  The decision or solution will be for the production, distribution and inventory nodes.
