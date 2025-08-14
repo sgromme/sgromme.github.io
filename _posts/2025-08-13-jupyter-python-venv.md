@@ -18,6 +18,10 @@ System:
 3. Visual Studion Code
 4. 'jupyter' was install with pip in the Python virtual ( module venv)
 
+# Update
+Had to reinstall Jupyter the next day because Jupyter Notebooks would not start, seems to be a path issue.
+Still see this error "[error] Error refreshing packages  ....".
+
 # Analysis
 
 Juypter Notebook install seems to need Conda to be installed.  After deleting the environment and reinstall 'ipykernel' the VSC notebook will run.  It still wants 'Conda' but does run.
