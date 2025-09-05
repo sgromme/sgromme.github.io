@@ -5,7 +5,6 @@ date: 2025-08-13 09:10:00 +0000
 categories: [Python Environment, VSC]
 tags: [ development]
 render_with_liquid: false
-mermaid: true
 ---
 
 # Problem
