@@ -1,6 +1,6 @@
 ---
 title: Writing a New Post
-author: cotes
+author: scott_gromme
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
@@ -401,7 +401,7 @@ Where `Platform` is the lowercase of the platform name, and `ID` is the video ID
 The following table shows how to get the two parameters we need in a given video URL, and you can also know the currently supported video platforms.
 
 | Video URL                                                                                          | Platform  | ID            |
-|----------------------------------------------------------------------------------------------------|-----------|:--------------|
+| -------------------------------------------------------------------------------------------------- | --------- | :------------ |
 | [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube` | `H-B46URT4mg` |
 | [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`  | `1634779211`  |
 
