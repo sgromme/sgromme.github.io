@@ -2,7 +2,7 @@
 title: Supply Planning Data Generation
 author: scott_gromme
 date: 2025-09-26 09:10:00 +0000
-categories: [Blogging, OSP, Data Generation]
+categories: [SP Data Generation]
 tags: [supply planning, sp data]
 render_with_liquid: false
 mermaid: true

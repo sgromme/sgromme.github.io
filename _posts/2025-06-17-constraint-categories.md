@@ -2,8 +2,8 @@
 title: Constraint Categories
 author: scott_gromme
 date: 2025-06-17 09:10:00 +0000
-categories: [Constraint, Chirpy]
-tags: [ OSPF, ChatGPT]
+categories: [SP Constraints]
+tags: [ OSP]
 render_with_liquid: false
 ---
 

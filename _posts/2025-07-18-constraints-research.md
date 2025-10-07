@@ -2,7 +2,7 @@
 title: Constraints Research
 author: scott_gromme
 date: 2025-07-18 09:10:00 +0000
-categories: [OSP, Software Engineering, Constraints]
+categories: [SP Constraints]
 tags: [supply planning]
 render_with_liquid: false
 mermaid: true

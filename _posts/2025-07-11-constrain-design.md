@@ -2,7 +2,7 @@
 title: Constraint Design
 author: scott_gromme
 date: 2025-07-11 09:10:00 +0000
-categories: [OSP, Software Engineering]
+categories: [SP Constraints]
 tags: [supply planning]
 render_with_liquid: false
 mermaid: true

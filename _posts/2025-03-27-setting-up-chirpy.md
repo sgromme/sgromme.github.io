@@ -2,7 +2,7 @@
 title: Setting Up Chirpy
 author: scott_gromme
 date: 2025-03-27 09:10:00 +0800
-categories: [Blogging, Chirpy]
+categories: [Chirpy]
 tags: [writing, Jekyll, Chirpy]
 render_with_liquid: false
 ---

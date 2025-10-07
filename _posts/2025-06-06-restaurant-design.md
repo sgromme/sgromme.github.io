@@ -3,7 +3,7 @@ title: Design and Development of a New Restaurant Chain.
 author: scott_gromme
 date: 2025-06-24 10:10:00 +0800
 categories: [Restaurant]
-tags: [design, development, research]
+tags: [restaurant development]
 render_with_liquid: false
 ---
 

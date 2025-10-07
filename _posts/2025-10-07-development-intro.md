@@ -2,7 +2,7 @@
 title: Engineering and Development of a Distributed Supply Planning Application
 author: scott_gromme
 date: 2025-10-07 09:10:00 +0000
-categories: [Blogging, Chirpy]
+categories: [Development]
 tags: [writing, coding, process]
 render_with_liquid: false
 ---

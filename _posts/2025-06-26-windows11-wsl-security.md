@@ -2,7 +2,7 @@
 title: WSL-2 Cmd Line Terminals are Blank when starting
 author: scott_gromme
 date: 2025-06-26 10:10:00 +0800
-categories: [WSL-2, Tutorial]
+categories: [WSL-2]
 tags: [development]
 render_with_liquid: false
 ---

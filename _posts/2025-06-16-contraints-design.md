@@ -5,8 +5,8 @@ description: >-
   Observability, traceblity and understanding of contraints.
 author: scott_gromme
 date: 2025-06-16 11:55:00 +0800
-categories: [Blogging, Design, OSP]
-tags: [initial design]
+categories: [SP Constraints]
+tags: [OSP, design]
 render_with_liquid: false
 ---
 
